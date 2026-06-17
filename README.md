@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi, I'm Shifana Sherin👋
 
-<!--
-**shifana-op/shifana-op** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity
 
-Here are some ideas to get you started:
+Focused on Security Monitoring, Threat Detection, and SIEM Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Linux
+- Networking
+- Wazuh SIEM
+- Threat Detection
+- Security Monitoring
+- Log Analysis
+- Kali Linux
+- Nmap
+- Wireshark
+
+## Featured Project
+
+### Wazuh Threat Detection Lab
+
+A hands-on SIEM project focused on:
+
+- Log collection and monitoring
+- Threat detection
+- Security alert analysis
+- Threat intelligence integration
+- Automated incident response
+
+## Currently Learning
+
+- Threat Hunting
+- SOC Operations
+- Incident Response
+- Cyber Threat Intelligence
+
+# Hi, I'm Shifana 👋
+
+## Cybersecurity
+
+Focused on Security Monitoring, Threat Detection, and SIEM Technologies.
+
+## Skills
+
+- Linux
+- Networking
+- Wazuh SIEM
+- Threat Detection
+- Security Monitoring
+- Log Analysis
+- Kali Linux
+- Nmap
+- Wireshark
+
+## Featured Project
+
+### Wazuh Threat Detection Lab
+
+A hands-on SIEM project focused on:
+
+- Log collection and monitoring
+- Threat detection
+- Security alert analysis
+- Threat intelligence integration
+- Automated incident response
+
+## Currently Learning
+
+- Threat Hunting
+- SOC Operations
+- Incident Response
+- Cyber Threat Intelligence
+
+## Goal
+
+To build expertise in cybersecurity, threat detection, and security operations.
+
+## Connect With Me
+-  LinkedIn: www.linkedin.com/in/shifana-sherin-op
+
